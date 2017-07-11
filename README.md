@@ -36,11 +36,11 @@ You must first learn the Chinese syllables and how they are represented, sound, 
 The basic phases are:
 
 - Listen to the Dialog
-- Characters
-- Vocabulary
+- Writing the Characters
+- Deep Study the Vocabulary
 - Translate the Dialog
-- Grammar
-- Exercises
+- Deep Study the Grammar
+- Go through the Exercises
 
 Each lesson is broken into two dialog sections, each with their own vocabulary and grammar sections.
 
@@ -53,20 +53,20 @@ Go through the following steps for each dialog section in each Lesson...
 - See if you can pick out each word and syllable.  If not, no worries.  Just hear the sounds as best you can.
 - After a while, speak along with the dialog as best you can, pausing the audio where necessary.
 
-### Character Workbook
+### Writing the Characters
 
 - Open up the [Integrated Chinese 4th Edition Level 1 Workbook SC][7]
-- Look up each character in [Pleco Chinese Dictionary][3]
+- Look up each character in the [Pleco Chinese Dictionary][3]
     - Listen to the pronunciation (several times if necessary)
     - Watch the stroke order animation
 - Write each character in the correct stroke order
     - Say the Pinyin and English definition as you're writing each character
 
-### Vocabulary
+### Deep Study the Vocabulary
 
 For each word in the vocabulary list:
 
-- Look up each character in [Pleco Chinese Dictionary][3]
+- Look up each character in the [Pleco Chinese Dictionary][3]
     - Listen to the pronunciation (several times if necessary)
     - Watch the stroke order animation
 - Write each character in the correct stroke order
@@ -75,23 +75,23 @@ For each word in the vocabulary list:
     - Character composition (Sound, Semantic, etc)
     - Radicals
     - Form and meaning
-    - Both [Pleco Chinese Dictionary][3] and [Chinese Characters: A Genealogy and Dictionary][11] are great for these
+    - Both the [Pleco Chinese Dictionary][3] and [Chinese Characters: A Genealogy and Dictionary][11] are great for these
 
 ### Translate the Dialog
 
 For each line of dialog:
 
-- Copy Chinese characters (refering to [Pleco Chinese Dictionary][3] as needed)
+- Copy Chinese characters (refering to the [Pleco Chinese Dictionary][3] as needed)
 - Put the pinyin below the characters (paying attention to tone markers and spelling)
 - Put the English translation below the pinyin
 
-### Grammar
+### Deep Study the Grammar
 
 - Copy each grammar note in full (English sentences and Chinese Characters)
 - Pay attention to example sentences and usage
 - Add any variant sentences you want along with the example sentences to play around with the concept
 
-### Exercises
+### Go through the Exercises
 
 Exercises can be tough sometimes, especially since there are no answers in the textbook.
 
@@ -105,7 +105,7 @@ Even if you don't have the website subscription, do the best you can.  You can c
 
 ## Learn Grammar from Modern Mandarin Chinese Grammar
 
-When you want to focus on just grammar, and/or reinforce your textbook learning, go through [Modern Mandarin Chinese Grammar 2E Textbook][9], page by page, copying down the rules and trying exercises where you can.
+When you want to focus on just grammar, and/or reinforce your textbook learning, go through the [Modern Mandarin Chinese Grammar 2E Textbook][9], page by page, copying down the rules and trying exercises where you can.
 
 When you want to reinforce learning in a particular section, the [Modern Mandarin Chinese Grammar 2E Workbook][10] is great.
 
@@ -115,12 +115,20 @@ When you need a break from your textbook work, have fun with graded readers!
 
 - [Step by Step Graded Readers Level A][12]
 - Follow the same method steps for the textbook lesson dialog section listed above (ignoring workbook and grammar notes)
+- Strive to be able to read aloud each book all the way through without stopping to figure something out!
 
 ## Watch movies with Chinese dialog
 
-Watching movies with Chinese dialog (especially with Chinese character subtitles) can be an fun way to listen and read Chinese!
+Watching movies with Chinese dialog (especially those with Chinese character subtitles if you can find them) can be an fun way to listen and read Chinese!
 
-At first, you may want to turn on English subtitles just to get the meaning of the movie.  After that, flip on Chinese subtitles.
+At first, you may want to turn on English subtitles just to get the meaning of the movie.  After that, flip on Chinese subtitles.  If there are Chinese and English audio tracks, try watching it once with one, and then again with the other.  Have fun with it.
+
+Some Chinese movies I like:
+
+- Let the Bullet's Fly, 2011 (Chinese audio, English subtitles)
+- The Butcher, the Chef and the Swordsman, 2011 (Chinese audio, TC subtitles)
+- Little Big Soldier, 2010 (Chinese audio)
+- Journey to the West, 2014 (Chinese audio, English subtitles)
 
 # Resources
 
