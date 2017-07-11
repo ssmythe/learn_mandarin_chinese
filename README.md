@@ -7,10 +7,11 @@ Steve Smythe, v1.0.0 - July 11, 2017
 
 # Abstract
 
-This document describes the methods and techniques I use to learn Mandarin Chinese.
+This document describes the methods and techniques I use to learn Mandarin Chinese:
 
 - I start off by learning Pinyin (romanization of Chinese syllables)
-- Then I use the methods below to learn Chinese from any textbook, article, or Chinese reader.
+- Then I use the methods below to learn Chinese from any textbook, article, or Chinese reader
+- Watch movies with Chinese dialog (and subtitles)
 
 # Methods
 
@@ -111,6 +112,12 @@ When you need a break from your textbook work, have fun with graded readers!
 
 - [Step by Step Graded Readers Level A][12]
 - Follow the same method steps for the textbook lesson dialog section listed above (ignoring workbook and grammar notes)
+
+## Watch movies with Chinese dialog
+
+Watching movies with Chinese dialog (especially with Chinese character subtitles) can be an fun way to listen and read Chinese!
+
+At first, you may want to turn on English subtitles just to get the meaning of the movie.  After that, flip on Chinese subtitles.
 
 # Resources
 
