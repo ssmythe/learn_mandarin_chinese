@@ -9,11 +9,16 @@ Steve Smythe, v1.0.0 - July 11, 2017
 
 This document describes the methods and techniques I use to learn Mandarin Chinese.
 
-I start off with Pinyin (romanization of Chinese syllables), then the core methods to learn from any textbook, article, and Chinese reader.
+- I start off by learning Pinyin (romanization of Chinese syllables)
+- Then I use the methods below to learn Chinese from any textbook, article, or Chinese reader.
 
-# Method
+# Methods
 
-My approach to learning Mandarin Chinese is based around listening, speaking, reading, and writing.  It's a little slow at first, but the payoff is that you'll accellerate your learning the more characters you know.
+My approach to learning Mandarin Chinese is based around listening, speaking, reading, and writing.
+
+It's a little slow at first, but the payoff is that you'll accellerate your learning the more characters you know.
+
+Before you know it, you'll be writing complete sentences in Chinese characters, and easily be able to read and speak them!
 
 ## Learn Pinyin First!
 
@@ -21,11 +26,17 @@ You must first learn the Chinese syllables and how they are represented, sound, 
 
 - [Yoyo Chinese Pinyin Course][1] go through this course first.  It's fast, fun, and really easy to understand.
 
-## Learn Characters and Grammar
+## Learn Characters and Grammar from Integrated Chinese Books
 
-Next, grab the textbook, workbook, and character workbook.
+Grab your [Integrated Chinese 4th Edition Level 1 Textbook SC][6], [Integrated Chinese 4th Edition Level 1 Workbook SC][7], and [Integrated Chinese 4th Edition Level 1 Character Workbook SC and TC][8]
 
-- [Integrated Chinese 4th Edition Level 1 Textbook SC][6]
+The basic phases are:
+
+- Dialog
+- Characters
+- Vocabulary
+- Grammar
+- Exercises
 
 Each lesson is broken into two dialog sections, each with their own vocabulary and grammar sections.
 
@@ -36,6 +47,7 @@ Go through the following steps for each dialog section in each Lesson...
 - Listen to the MP3 audio file for the dialog several times.
 - Just listen to the general flow and rhythm of the conversation.
 - See if you can pick out each word and syllable.  If not, no worries.  Just hear the sounds as best you can.
+- After a while, speak along with the dialog as best you can, pausing the audio where necessary.
 
 ### Character Workbook
 
@@ -61,6 +73,14 @@ For each word in the vocabulary list:
     - Form and meaning
     - Both [Pleco Chinese Dictionary][3] and [Chinese Characters: A Genealogy and Dictionary][11] are great for these
 
+### Translate the Dialog
+
+For each line of dialog:
+
+- Copy Chinese characters (refering to [Pleco Chinese Dictionary][3] as needed)
+- Put the pinyin below the characters (paying attention to tone markers and spelling)
+- Put the English translation below the pinyin
+
 ### Grammar
 
 - Copy each grammar note in full (English sentences and Chinese Characters)
@@ -79,11 +99,18 @@ Even if you don't have the website subscription, do the best you can.  You can c
 - Write out each answer
 - Refer back to the grammar sections, vocabulary, and dialog as necessary (maybe even from previous sections)
 
+## Learn Grammar from Modern Mandarin Chinese Grammar
+
+When you want to focus on just grammar, and/or reinforce your textbook learning, go through [Modern Mandarin Chinese Grammar 2E Textbook][9], page by page, copying down the rules and trying exercises where you can.
+
+When you want to reinforce learning in a particular section, the [Modern Mandarin Chinese Grammar 2E Workbook][10] is great.
+
 ## Read Aloud For Fun
 
 When you need a break from your textbook work, have fun with graded readers!
 
 - [Step by Step Graded Readers Level A][12]
+- Follow the same method steps for the textbook lesson dialog section listed above (ignoring workbook and grammar notes)
 
 # Resources
 
