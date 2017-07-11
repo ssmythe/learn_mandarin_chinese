@@ -22,6 +22,11 @@ It’s a 27 lesson course that takes you from knowing nothing about tones and sy
 
 Once you’ve gone through this material, you can skip any intro Pinyin material in textbooks.
 
+## Yoyo Chinese Video Pinyin Chart
+https://www.yoyochinese.com/chinese-learning-tools/Mandarin-Chinese-pronunciation-lesson/pinyin-chart-table
+
+If you ever want a refresher on a specific syllable, the Yoyo Chinese Video Pinyin Chart is a great tool.  Yangyang Cheng goes through the details to sound it correctly.
+
 # Tools
 
 ## Pleco Chinese Dictionary [iOS]
