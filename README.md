@@ -41,7 +41,7 @@ The Mi Zi Ge grid is awesome for full page writing.  Very clean.
 
 http://www.themandarinchineseschool.org/documents/library/sheet5.doc
 
-The “sheet5.doc” has lines above the Mi Zi Ge frames for you to write pinyin.  Very handy.
+The “sheet5.doc” has lines above the Mi Zi Ge frames for you to write pinyin and/or English.  Very handy.
 
 # Books
 
