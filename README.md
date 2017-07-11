@@ -71,7 +71,24 @@ Modern Mandaring Chinese Grammar (MMCG2E) is the most comprehensive grammar reso
 
 A word of caution.  If you’re a beginner and going through it page by page, you are likely to run into exercises that assume you have a higher level 
 
- 
+## Chinese Characters: A Genealogy and Dictionary (English and Mandarin Chinese Edition)
+https://smile.amazon.com/gp/product/0966075005
+
+This reference is great at helping understand the composition and meanings of characters.  I use it to look up new characters and to see if there are any additional meanings that aren't in the Pleco app.
+
+## Step by Step Graded Readers
+
+- Level A (SC): https://smile.amazon.com/gp/product/0887278515
+- Level B (SC): https://smile.amazon.com/gp/product/0887279953
+- Level C (SC): https://smile.amazon.com/gp/product/1622910516
+
+These graded readers are excellent at given you easy to digest material to build your confidence at reading Chinese characters.
+
+Excellent MP3 audio files are available on the website.
+
+
+
+
 
 
 
