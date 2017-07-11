@@ -29,7 +29,9 @@ You must first learn the Chinese syllables and how they are represented, sound, 
 
 ## Learn Characters and Grammar from Integrated Chinese Books
 
-Grab your [Integrated Chinese 4th Edition Level 1 Textbook SC][6], [Integrated Chinese 4th Edition Level 1 Workbook SC][7], and [Integrated Chinese 4th Edition Level 1 Character Workbook SC and TC][8]
+- [Integrated Chinese 4th Edition Level 1 Textbook SC][6]
+- [Integrated Chinese 4th Edition Level 1 Workbook SC][7]
+- [Integrated Chinese 4th Edition Level 1 Character Workbook SC and TC][8]
 
 The basic phases are:
 
