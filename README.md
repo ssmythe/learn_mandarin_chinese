@@ -125,6 +125,7 @@ At first, you may want to turn on English subtitles just to get the meaning of t
 
 Some Chinese movies I like:
 
+- Crouching Tiger, Hidden Dragon, 2000 (Chinese audio, English subtitles)
 - Let the Bullet's Fly, 2011 (Chinese audio, English subtitles)
 - The Butcher, the Chef and the Swordsman, 2011 (Chinese audio, TC subtitles)
 - Little Big Soldier, 2010 (Chinese audio)
