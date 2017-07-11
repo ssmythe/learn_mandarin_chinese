@@ -19,13 +19,13 @@ My approach to learning Mandarin Chinese is based around listening, speaking, re
 
 You must first learn the Chinese syllables and how they are represented, sound, and written.
 
-- [Yoyo Chinese Pinyin Course](README.md) go through this course first.  It's fast, fun, and really easy to understand.
+- [Yoyo Chinese Pinyin Course][1] go through this course first.  It's fast, fun, and really easy to understand.
 
 ## Learn Characters and Grammar
 
 Next, grab the textbook, workbook, and character workbook.
 
-- [Integrated Chinese 4th Edition Level 1](README.md)
+- [Integrated Chinese 4th Edition Level 1 Textbook SC][6]
 
 Each lesson is broken into two dialog sections, each with their own vocabulary and grammar sections.
 
@@ -39,7 +39,8 @@ Go through the following steps for each dialog section in each Lesson...
 
 ### Character Workbook
 
-- Look up each character in [Pleco Chinese Dictionary](README.md)
+- Open up the [Integrated Chinese 4th Edition Level 1 Workbook SC][7]
+- Look up each character in [Pleco Chinese Dictionary][3]
     - Listen to the pronunciation (several times if necessary)
     - Watch the stroke order animation
 - Write each character in the correct stroke order
@@ -49,7 +50,7 @@ Go through the following steps for each dialog section in each Lesson...
 
 For each word in the vocabulary list:
 
-- Look up each character in [Pleco Chinese Dictionary](README.md)
+- Look up each character in [Pleco Chinese Dictionary][3]
     - Listen to the pronunciation (several times if necessary)
     - Watch the stroke order animation
 - Write each character in the correct stroke order
@@ -58,7 +59,7 @@ For each word in the vocabulary list:
     - Character composition (Sound, Semantic, etc)
     - Radicals
     - Form and meaning
-    - Both [Pleco Chinese Dictionary](README.md) and [Chinese Characters: A Genealogy and Dictionary](README.md) are great for these
+    - Both [Pleco Chinese Dictionary][3] and [Chinese Characters: A Genealogy and Dictionary][10] are great for these
 
 ### Grammar
 
@@ -82,14 +83,14 @@ Even if you don't have the website subscription, do the best you can.  You can c
 
 When you need a break from your textbook work, have fun with graded readers!
 
-- [Step by Step Graded Readers](README.md)
+- [Step by Step Graded Readers Level A][11]
 
 # Resources
 
 ## Pinyin
 
 ### Yoyo Chinese Pinyin Course
-https://www.youtube.com/playlist?list=PLioS_-8erSI1B8dEErLr28sdgsHMui1d-
+[1]: https://www.youtube.com/playlist?list=PLioS_-8erSI1B8dEErLr28sdgsHMui1d- "Yoyo Chinese Pinyin Course"
 
 The best training I’ve found anywhere is Yangyang Cheng’s “Yoyo Chinese Pinyin Course: Learn to Pronounce Mandarin Chinese” on YouTube.
 
@@ -98,14 +99,14 @@ It’s a 27 lesson course that takes you from knowing nothing about tones and sy
 Once you’ve gone through this material, you can skip any intro Pinyin material in textbooks.
 
 ### Yoyo Chinese Video Pinyin Chart
-https://www.yoyochinese.com/chinese-learning-tools/Mandarin-Chinese-pronunciation-lesson/pinyin-chart-table
+[2]: https://www.yoyochinese.com/chinese-learning-tools/Mandarin-Chinese-pronunciation-lesson/pinyin-chart-table "Yoyo Chinese Video Pinyin Chart"
 
 If you ever want a refresher on a specific syllable, the Yoyo Chinese Video Pinyin Chart is a great tool.  Yangyang Cheng goes through the details to sound it correctly with a video for each syllable as well as tone audio files to really nail it.
 
 ## Tools
 
 ### Pleco Chinese Dictionary
-https://itunes.apple.com/us/app/pleco-chinese-dictionary/id341922306?mt=8
+[3]: https://itunes.apple.com/us/app/pleco-chinese-dictionary/id341922306?mt=8 "Pleco Chinese Dictionary"
 
 This is the number one resources I use on a daily basis.  Aside from being an insanely awesome dictionary (with pinyin, Chinese character via keyboard, handwriting, and voice, as well as English lookups), it has a stroke animation option for every character to help you learn exactly how to write a character.  It’s awesome.  Be sure to watch both the brush font and book font animations.  This way, you'll be able to recognize both fonts.  The differences can be subtle or very large.  Learn both.
 
@@ -120,20 +121,24 @@ I also really enjoy the voices used for pronouncing words and example sentences.
 The in-app purchases can add up, but are worth every penny spent.  I love it!
 
 ### Printable Mi Zi Ge Pages
-http://chineseprintables.com/paper/rice_US.pdf
 
-The Mi Zi Ge grid is awesome for full page writing.  Very clean.
+#### Chinese Printables Rice US
+[4]: http://chineseprintables.com/paper/rice_US.pdf "Chinese Printables Rice US"
 
-http://www.themandarinchineseschool.org/documents/library/sheet5.doc
+This Mi Zi Ge grid is awesome for full page writing.  Very clean.
+
+#### Mandaring Chinese School Sheet5
+
+[5]: http://www.themandarinchineseschool.org/documents/library/sheet5.doc "Mandaring Chinese School Sheet5"
 
 The “sheet5.doc” has lines above the Mi Zi Ge frames for you to write pinyin and/or English.  Very handy.
 
 ## Books
 
 ### Integrated Chinese 4th Edition Level 1
-- Textbook (SC): https://smile.amazon.com/gp/product/1622911350
-- Workbook (SC): https://smile.amazon.com/gp/product/1622911369
-- Character Workbook (SC and TC): https://smile.amazon.com/gp/product/1622911377
+- Textbook (SC): [6]: https://smile.amazon.com/gp/product/1622911350 "Integrated Chinese 4th Edition Level 1 Textbook SC"
+- Workbook (SC): [7]: https://smile.amazon.com/gp/product/1622911369 "Integrated Chinese 4th Edition Level 1 Workbook SC"
+- Character Workbook (SC and TC): [8]: https://smile.amazon.com/gp/product/1622911377 "Integrated Chinese 4th Edition Level 1 Character Workbook SC and TC"
 
 Note: SC means Simplified Chinese Characters, TC means Traditional Chinese Characters
 
@@ -149,34 +154,24 @@ Finally, go through the workbook dialog section.  This will cement your understa
 
 ### Modern Mandarin Chinese Grammar, 2nd Edition
 
-- Textbook: https://smile.amazon.com/gp/product/0415827140
-- Workbook: https://smile.amazon.com/gp/product/0415834880
+- Textbook: [8]: https://smile.amazon.com/gp/product/0415827140 "Modern Mandarin Chinese Grammar 2E Textbook"
+- Workbook: [9]: https://smile.amazon.com/gp/product/0415834880 "Modern Mandarin Chinese Grammar 2E Workbook"
 
 Modern Mandaring Chinese Grammar (MMCG2E) is the most comprehensive grammar resources I’ve found.  It has the best Pinyin tone rules section I’ve found, as well as the material divided into two sections: Part A: Structures, and part B: Situations and functions.  This way, you can go directly to the section you’re looking for, or go through it page by page.  Excellent resource.
 
 A word of caution.  If you’re a beginner and going through it page by page, you are likely to run into exercises that assume you have a higher level 
 
 ### Chinese Characters: A Genealogy and Dictionary
-https://smile.amazon.com/gp/product/0966075005
+[10]: https://smile.amazon.com/gp/product/0966075005 "Chinese Characters: A Genealogy and Dictionary"
 
 This reference is great at helping understand the composition and meanings of characters.  I use it to look up new characters and to see if there are any additional meanings that aren't in the Pleco app.
 
 ### Step by Step Graded Readers
 
-- Level A (SC): https://smile.amazon.com/gp/product/0887278515
-- Level B (SC): https://smile.amazon.com/gp/product/0887279953
-- Level C (SC): https://smile.amazon.com/gp/product/1622910516
+- Level A (SC): [11]: https://smile.amazon.com/gp/product/0887278515 "Step by Step Graded Readers Level A"
+- Level B (SC): [12]: https://smile.amazon.com/gp/product/0887279953 "Step by Step Graded Readers Level B"
+- Level C (SC): [13]: https://smile.amazon.com/gp/product/1622910516 "Step by Step Graded Readers Level C"
 
 These graded readers are excellent at given you easy to digest material to build your confidence at reading Chinese characters.
 
 Excellent MP3 audio files are available on the website.
-
-
-
-
-
-
-
-
-
-
