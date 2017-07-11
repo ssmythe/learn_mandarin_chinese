@@ -81,7 +81,7 @@ For each word in the vocabulary list:
 
 For each line of dialog:
 
-- Copy Chinese characters (refering to the [Pleco Chinese Dictionary][3] as needed)
+- Copy Chinese characters (referring to the [Pleco Chinese Dictionary][3] as needed)
 - Put the pinyin below the characters (paying attention to tone markers and spelling)
 - Put the English translation below the pinyin
 
@@ -95,7 +95,7 @@ For each line of dialog:
 
 Exercises can be tough sometimes, especially since there are no answers in the textbook.
 
-This is where the website comes in.  It's a subscription, but the interactive exercises give you immediate feedback, so you know you've got it write.
+This is where the website comes in (when it comes out, very soon, I hope).  It's a subscription, but the interactive exercises give you immediate feedback, so you know you've got it write.
 
 Even if you don't have the website subscription, do the best you can.  You can come back later after you've studied more and correct yourself!
 
@@ -114,12 +114,14 @@ When you want to reinforce learning in a particular section, the [Modern Mandari
 When you need a break from your textbook work, have fun with graded readers!
 
 - [Step by Step Graded Readers Level A][12]
-- Follow the same method steps for the textbook lesson dialog section listed above (ignoring workbook and grammar notes)
+- [Step by Step Graded Readers Level B][13]
+- [Step by Step Graded Readers Level C][14]
+- Follow the same method steps for the textbook lesson dialog section listed above (ignoring what doesn't apply)
 - Strive to be able to read aloud each book all the way through without stopping to figure something out!
 
 ## Watch movies with Chinese dialog
 
-Watching movies with Chinese dialog (especially those with Chinese character subtitles if you can find them) can be an fun way to listen and read Chinese!
+Watching movies with Chinese dialog, especially those with Chinese character subtitles (if you can find them), can be an fun way to listen and read Chinese!
 
 At first, you may want to turn on English subtitles just to get the meaning of the movie.  After that, flip on Chinese subtitles.  If there are Chinese and English audio tracks, try watching it once with one, and then again with the other.  Have fun with it.
 
@@ -130,6 +132,7 @@ Some Chinese movies I like:
 - The Butcher, the Chef and the Swordsman, 2011 (Chinese audio, TC subtitles)
 - Little Big Soldier, 2010 (Chinese audio)
 - Journey to the West, 2014 (Chinese audio, English subtitles)
+- Pushing Hands, 1992 (Chinese audio, English subtitles)
 
 # Resources
 
