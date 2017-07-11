@@ -11,9 +11,84 @@ This document describes the methods and techniques I use to learn Mandarin Chine
 
 I start off with Pinyin (romanization of Chinese syllables), then the core methods to learn from any textbook, article, and Chinese reader.
 
-# Pinyin
+# Method
 
-## Yoyo Chinese Pinyin Course
+My approach to learning Mandarin Chinese is based around listening, speaking, reading, and writing.  It's a little slow at first, but the payoff is that you'll accellerate your learning the more characters you know.
+
+## Learn Pinyin First!
+
+You must first learn the Chinese syllables and how they are represented, sound, and written.
+
+- [Yoyo Chinese Pinyin Course](README.md) go through this course first.  It's fast, fun, and really easy to understand.
+
+## Learn Characters and Grammar
+
+Next, grab the textbook, workbook, and character workbook.
+
+- [Integrated Chinese 4th Edition Level 1](README.md)
+
+Each lesson is broken into two dialog sections, each with their own vocabulary and grammar sections.
+
+Go through the following steps for each dialog section in each Lesson...
+
+### Listen to the Dialog
+
+- Listen to the MP3 audio file for the dialog several times.
+- Just listen to the general flow and rhythm of the conversation.
+- See if you can pick out each word and syllable.  If not, no worries.  Just hear the sounds as best you can.
+
+### Character Workbook
+
+- Look up each character in [Pleco Chinese Dictionary](README.md)
+    - Listen to the pronunciation (several times if necessary)
+    - Watch the stroke order animation
+- Write each character in the correct stroke order
+    - Say the Pinyin and English definition as you're writing each character
+
+### Vocabulary
+
+For each word in the vocabulary list:
+
+- Look up each character in [Pleco Chinese Dictionary](README.md)
+    - Listen to the pronunciation (several times if necessary)
+    - Watch the stroke order animation
+- Write each character in the correct stroke order
+- Write and say the Pinyin, part of speech, and English definition
+- Dig into each character understanding and writing down:
+    - Character composition (Sound, Semantic, etc)
+    - Radicals
+    - Form and meaning
+    - Both [Pleco Chinese Dictionary](README.md) and [Chinese Characters: A Genealogy and Dictionary](README.md) are great for these
+
+### Grammar
+
+- Copy each grammar note in full (English sentences and Chinese Characters)
+- Pay attention to example sentences and usage
+- Add any variant sentences you want along with the example sentences to play around with the concept
+
+### Exercises
+
+Exercises can be tough sometimes, especially since there are no answers in the textbook.
+
+This is where the website comes in.  It's a subscription, but the interactive exercises give you immediate feedback, so you know you've got it write.
+
+Even if you don't have the website subscription, do the best you can.  You can come back later after you've studied more and correct yourself!
+
+- Copy each exercise statements
+- Write out each answer
+- Refer back to the grammar sections, vocabulary, and dialog as necessary (maybe even from previous sections)
+
+## Read Aloud For Fun
+
+When you need a break from your textbook work, have fun with graded readers!
+
+- [Step by Step Graded Readers](README.md)
+
+# Resources
+
+## Pinyin
+
+### Yoyo Chinese Pinyin Course
 https://www.youtube.com/playlist?list=PLioS_-8erSI1B8dEErLr28sdgsHMui1d-
 
 The best training I’ve found anywhere is Yangyang Cheng’s “Yoyo Chinese Pinyin Course: Learn to Pronounce Mandarin Chinese” on YouTube.
@@ -22,24 +97,29 @@ It’s a 27 lesson course that takes you from knowing nothing about tones and sy
 
 Once you’ve gone through this material, you can skip any intro Pinyin material in textbooks.
 
-## Yoyo Chinese Video Pinyin Chart
+### Yoyo Chinese Video Pinyin Chart
 https://www.yoyochinese.com/chinese-learning-tools/Mandarin-Chinese-pronunciation-lesson/pinyin-chart-table
 
 If you ever want a refresher on a specific syllable, the Yoyo Chinese Video Pinyin Chart is a great tool.  Yangyang Cheng goes through the details to sound it correctly with a video for each syllable as well as tone audio files to really nail it.
 
-# Tools
+## Tools
 
-## Pleco Chinese Dictionary [iOS]
+### Pleco Chinese Dictionary
 https://itunes.apple.com/us/app/pleco-chinese-dictionary/id341922306?mt=8
 
-This is the number one resources I use on a daily basis.  Aside from being an insanely awesome dictionary (with pinyin, Chinese character via keyboard, handwriting, and voice, as well as English lookups), it has a stroke animation option for every character to help you learn exactly how to write a character.  It’s awesome.
+This is the number one resources I use on a daily basis.  Aside from being an insanely awesome dictionary (with pinyin, Chinese character via keyboard, handwriting, and voice, as well as English lookups), it has a stroke animation option for every character to help you learn exactly how to write a character.  It’s awesome.  Be sure to watch both the brush font and book font animations.  This way, you'll be able to recognize both fonts.  The differences can be subtle or very large.  Learn both.
 
+Also, be sure to turn on:
+
+- Settings > Dictionary Definition > Definition Screen > Stroke > Background = 2x2 + Diag
+
+...this puts the nice grid behind the stroke order animations and really helps you correctly write each stroke in the right relationship to the others.
 
 I also really enjoy the voices used for pronouncing words and example sentences.  So handy to hear words spoken in context.  Another cool feature I use every now and then is the OCR (optical character recognition) where you can hold your phone over arbitrary Chinese characters, and it will pick out the characters and allow you to look them up.  It also has some really cool flashcard features too.
 
 The in-app purchases can add up, but are worth every penny spent.  I love it!
 
-## Printable Mi Zi Ge Pages
+### Printable Mi Zi Ge Pages
 http://chineseprintables.com/paper/rice_US.pdf
 
 The Mi Zi Ge grid is awesome for full page writing.  Very clean.
@@ -48,9 +128,9 @@ http://www.themandarinchineseschool.org/documents/library/sheet5.doc
 
 The “sheet5.doc” has lines above the Mi Zi Ge frames for you to write pinyin and/or English.  Very handy.
 
-# Books
+## Books
 
-## Integrated Chinese 4th Edition Level 1
+### Integrated Chinese 4th Edition Level 1
 - Textbook (SC): https://smile.amazon.com/gp/product/1622911350
 - Workbook (SC): https://smile.amazon.com/gp/product/1622911369
 - Character Workbook (SC and TC): https://smile.amazon.com/gp/product/1622911377
@@ -67,7 +147,7 @@ Next, go through the textbook dialog section.  Write everything down in a notebo
 
 Finally, go through the workbook dialog section.  This will cement your understanding of the vocabulary and grammar points for the section.
 
-## Modern Mandarin Chinese Grammar, 2nd Edition
+### Modern Mandarin Chinese Grammar, 2nd Edition
 
 - Textbook: https://smile.amazon.com/gp/product/0415827140
 - Workbook: https://smile.amazon.com/gp/product/0415834880
@@ -76,12 +156,12 @@ Modern Mandaring Chinese Grammar (MMCG2E) is the most comprehensive grammar reso
 
 A word of caution.  If you’re a beginner and going through it page by page, you are likely to run into exercises that assume you have a higher level 
 
-## Chinese Characters: A Genealogy and Dictionary (English and Mandarin Chinese Edition)
+### Chinese Characters: A Genealogy and Dictionary
 https://smile.amazon.com/gp/product/0966075005
 
 This reference is great at helping understand the composition and meanings of characters.  I use it to look up new characters and to see if there are any additional meanings that aren't in the Pleco app.
 
-## Step by Step Graded Readers
+### Step by Step Graded Readers
 
 - Level A (SC): https://smile.amazon.com/gp/product/0887278515
 - Level B (SC): https://smile.amazon.com/gp/product/0887279953
