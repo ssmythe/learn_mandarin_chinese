@@ -35,9 +35,10 @@ You must first learn the Chinese syllables and how they are represented, sound, 
 
 The basic phases are:
 
-- Dialog
+- Listen to the Dialog
 - Characters
 - Vocabulary
+- Translate the Dialog
 - Grammar
 - Exercises
 
