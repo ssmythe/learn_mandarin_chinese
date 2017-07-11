@@ -25,7 +25,7 @@ Once you’ve gone through this material, you can skip any intro Pinyin material
 ## Yoyo Chinese Video Pinyin Chart
 https://www.yoyochinese.com/chinese-learning-tools/Mandarin-Chinese-pronunciation-lesson/pinyin-chart-table
 
-If you ever want a refresher on a specific syllable, the Yoyo Chinese Video Pinyin Chart is a great tool.  Yangyang Cheng goes through the details to sound it correctly.
+If you ever want a refresher on a specific syllable, the Yoyo Chinese Video Pinyin Chart is a great tool.  Yangyang Cheng goes through the details to sound it correctly with a video for each syllable as well as tone audio files to really nail it.
 
 # Tools
 
