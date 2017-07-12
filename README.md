@@ -17,7 +17,7 @@ This document describes the methods and techniques I use to learn Mandarin Chine
 
 My approach to learning Mandarin Chinese is based around listening, speaking, reading, and writing.
 
-It's a little slow at first, but the payoff is that you'll accellerate your learning the more characters you know.
+It's a little slow at first, but the payoff is that you'll accelerate your learning the more words and characters you know.
 
 Before you know it, you'll be writing complete sentences in Chinese characters, and easily be able to read and speak them!
 
@@ -60,7 +60,7 @@ Go through the following steps for each dialog section in each Lesson...
     - Listen to the pronunciation (several times if necessary)
     - Watch the stroke order animation
 - Write each character in the correct stroke order
-    - Say the Pinyin and English definition as you're writing each character
+    - Say the Pinyin and English definition as you're writing each word/character (as appropriate)
 
 ### Deep Study the Vocabulary
 
@@ -81,13 +81,13 @@ For each word in the vocabulary list:
 
 For each line of dialog:
 
-- Copy Chinese characters (referring to the [Pleco Chinese Dictionary][3] as needed)
+- Copy each line of Chinese characters (referring to the [Pleco Chinese Dictionary][3] as needed)
 - Put the pinyin below the characters (paying attention to tone markers and spelling)
 - Put the English translation below the pinyin
 
 ### Deep Study the Grammar
 
-- Copy each grammar note in full (English sentences and Chinese Characters)
+- Copy each grammar note in full (English sentences and Chinese characters)
 - Pay attention to example sentences and usage
 - Add any variant sentences you want along with the example sentences to play around with the concept
 
@@ -195,9 +195,9 @@ Integrated Chinese (IC4E1) textbooks are used in schools and colleges everywhere
 
 Each chapter is broken up two dialog and vocabulary sections.  I recommend going through the materials in this order:
 
-Character workbook for the dialog section.  Go through writing each characters eight to ten times just to familiarize yourself with each character, its components, pinyin, and definition, and get the feel for it.  This helps you recognize it in the dialog and vocabulary.
+Character workbook for the dialog section.  Go through writing each word and/or characters eight to ten times just to familiarize yourself with each word and character, its components, pinyin, and definition, and get the feel for it.  This helps you recognize it in the dialog and vocabulary.
 
-Next, go through the textbook dialog section.  Write everything down in a notebook and say it out loud (checking pronunciation with the audio files you download from the website, and/or in Pleco).  This hand-eye muscle memory greatly increases your character retention.
+Next, go through the textbook dialog section.  Write everything down in a notebook and say it out loud (checking pronunciation with the audio files you download from the website, and/or in Pleco).  This hand-eye muscle memory greatly increases your word and character retention.
 
 Finally, go through the workbook dialog section.  This will cement your understanding of the vocabulary and grammar points for the section.
 
@@ -213,7 +213,7 @@ A word of caution.  If you’re a beginner and going through it page by page, yo
 ### Chinese Characters: A Genealogy and Dictionary
 [Chinese Characters A Genealogy and Dictionary][11]
 
-This reference is great at helping understand the composition and meanings of characters.  I use it to look up new characters and to see if there are any additional meanings that aren't in the Pleco app.
+This reference is great at helping understand the composition and meanings of words and individual characters.  I use it to look up new words and characters and to see if there are any additional meanings that aren't in the Pleco app.
 
 ### Step by Step Graded Readers
 
@@ -221,7 +221,7 @@ This reference is great at helping understand the composition and meanings of ch
 - Level B (SC): [Step by Step Graded Readers Level B][13]
 - Level C (SC): [Step by Step Graded Readers Level C][14]
 
-These graded readers are excellent at given you easy to digest material to build your confidence at reading Chinese characters.
+These graded readers are excellent at given you easy to digest material to build your confidence at reading Chinese words and characters.
 
 Excellent MP3 audio files are available on the website.
 
