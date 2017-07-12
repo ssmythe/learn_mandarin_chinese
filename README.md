@@ -56,7 +56,7 @@ Go through the following steps for each dialog section in each Lesson...
 ### Writing the Characters
 
 - Open up the [Integrated Chinese 4th Edition Level 1 Workbook SC][7]
-- Look up each character in the [Pleco Chinese Dictionary][3]
+- Look up each word (could be composed of multiple characters) in the [Pleco Chinese Dictionary][3]
     - Listen to the pronunciation (several times if necessary)
     - Watch the stroke order animation
 - Write each character in the correct stroke order
@@ -66,7 +66,7 @@ Go through the following steps for each dialog section in each Lesson...
 
 For each word in the vocabulary list:
 
-- Look up each character in the [Pleco Chinese Dictionary][3]
+- Look up each word (could be composed of multiple characters) in the [Pleco Chinese Dictionary][3]
     - Listen to the pronunciation (several times if necessary)
     - Watch the stroke order animation
 - Write each character in the correct stroke order
