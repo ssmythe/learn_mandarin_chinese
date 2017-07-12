@@ -2,7 +2,7 @@
 
 ```
 It’s way easier than you would think
-Steve Smythe, v1.0.0 - July 11, 2017
+Steve Smythe, v1.0.1 - July 12, 2017
 ```
 
 # Abstract
