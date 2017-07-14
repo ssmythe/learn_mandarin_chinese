@@ -25,7 +25,7 @@ Before you know it, you'll be writing complete sentences in Chinese characters, 
 
 You must first learn the Chinese syllables and how they are represented, sound, and written.
 
-- [Yoyo Chinese Pinyin Course][1] go through this course first.  It's fast, fun, and really easy to understand.
+- [Yoyo Chinese Pinyin Course][1] go through this course first (preferably under stereo headphones to maximize audio focus).  It's fast, fun, and really easy to understand.
 
 ## Learn Characters and Grammar from Integrated Chinese Books
 
@@ -48,7 +48,7 @@ Go through the following steps for each dialog section in each Lesson...
 
 ### Listen to the Dialog
 
-- Listen to the MP3 audio file for the dialog several times.
+- Listen to the MP3 audio file for the dialog several times (preferably under stereo headphones to maximize audio focus).
 - Just listen to the general flow and rhythm of the conversation.
 - See if you can pick out each word and syllable.  If not, no worries.  Just hear the sounds as best you can.
 - After a while, speak along with the dialog as best you can, pausing the audio where necessary.
