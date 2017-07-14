@@ -2,7 +2,7 @@
 
 ```
 It’s way easier than you would think
-Steve Smythe, v1.0.1 - July 12, 2017
+Steve Smythe, v1.0.2 - July 14, 2017
 ```
 
 # Abstract
@@ -35,14 +35,17 @@ You must first learn the Chinese syllables and how they are represented, sound, 
 
 The basic phases are:
 
-- Listen to the Dialog
-- Writing the Characters
-- Deep Study the Vocabulary
-- Translate the Dialog
-- Deep Study the Grammar
-- Go through the Exercises
+- Listen to the Dialog (3 to 10 minutes)
+- Writing the Characters (1.5 to 3 hours)
+- Deep Study the Vocabulary (2 to 10 hours)
+- Translate the Dialog (5 to 30 minutes)
+- Deep Study the Grammar (2 to 6 hours)
+- Go through the Exercises (30 minutes to 2 hours)
 
 Each lesson is broken into two dialog sections, each with their own vocabulary and grammar sections.
+
+A single pass through a section can take anywhere from an estimated 7 to 22 hours.
+A whole lesson can take anywhere from an estimated 14 to 44 hours.
 
 Go through the following steps for each dialog section in each Lesson...
 
