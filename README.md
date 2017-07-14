@@ -41,11 +41,18 @@ The basic phases are:
 - Translate the Dialog (5 to 30 minutes)
 - Deep Study the Grammar (2 to 6 hours)
 - Go through the Exercises (30 minutes to 2 hours)
+- Go through the Workbook (2 to 10 hours)
+
+#### Time estimates
+
+- A single pass through a section can take anywhere from an estimated 8 to 32 hours.
+- A whole lesson can take anywhere from an estimated 16 to 64 hours.
+- The whole level one series of books can take anywhere from 160 to 640 hours.
+- Plan on one level series of books per year.
+
+### The Plan
 
 Each lesson is broken into two dialog sections, each with their own vocabulary and grammar sections.
-
-A single pass through a section can take anywhere from an estimated 7 to 22 hours.
-A whole lesson can take anywhere from an estimated 14 to 44 hours.
 
 Go through the following steps for each dialog section in each Lesson...
 
@@ -105,6 +112,14 @@ Even if you don't have the website subscription, do the best you can.  You can c
 - Copy each exercise statements
 - Write out each answer
 - Refer back to the grammar sections, vocabulary, and dialog as necessary (maybe even from previous sections)
+
+### Go through the Workbook
+
+Each workbook section is around 7 to 10 pages.  They can be dense with lots of details.
+
+Go through them carefully, referring back to any reference materials you have to.
+
+Take your time.  Enjoy it.  You've learned a lot, and the workbook section is your way to prove it!
 
 ## Learn Grammar from Modern Mandarin Chinese Grammar
 
