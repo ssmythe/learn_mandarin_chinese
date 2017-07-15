@@ -2,7 +2,7 @@
 
 ```
 It’s way easier than you would think
-Steve Smythe, v1.0.2 - July 14, 2017
+Steve Smythe, v1.0.3 - July 15, 2017
 ```
 
 # Abstract
@@ -21,11 +21,15 @@ It's a little slow at first, but the payoff is that you'll accelerate your learn
 
 Before you know it, you'll be writing complete sentences in Chinese characters, and easily be able to read and speak them!
 
+Also, when you're watching Chinese movies, you'll start picking up on phrases of dialog and read characters!  It's fun!
+
 ## Learn Pinyin First!
 
 You must first learn the Chinese syllables and how they are represented, sound, and written.
 
 - [Yoyo Chinese Pinyin Course][1] go through this course first (preferably under stereo headphones to maximize audio focus).  It's fast, fun, and really easy to understand.
+
+Tip: grab a stack of note cards and write out the syllables and sound tips for review as you go through the material.
 
 ## Learn Characters and Grammar from Integrated Chinese Books
 
@@ -45,16 +49,18 @@ The basic phases are:
 
 #### Time estimates
 
-- A single pass through a section can take anywhere from an estimated 8 to 32 hours.
-- A whole lesson can take anywhere from an estimated 16 to 64 hours.
-- The whole level one series of books can take anywhere from 160 to 640 hours.
+- A single dialog section can take anywhere from an estimated 8 to 32 hours.
+- A whole lesson (two dialog sections) can take anywhere from an estimated 16 to 64 hours.
+- The whole level one series of books (10 lessons) can take anywhere from 160 to 640 hours.
 - Plan on one level series of books per year.
+
+You are likely going to be faster than me.  If you are, great job!  If not, no worries.  Join the slow and steady club.
 
 ### The Plan
 
 Each lesson is broken into two dialog sections, each with their own vocabulary and grammar sections.
 
-Go through the following steps for each dialog section in each Lesson...
+Go through the following steps for each dialog section in each lesson...
 
 ### Listen to the Dialog
 
@@ -115,11 +121,11 @@ Even if you don't have the website subscription, do the best you can.  You can c
 
 ### Go through the Workbook
 
-Each workbook section is around 7 to 10 pages.  They can be dense with lots of details.
+Each workbook dialog section is around 7 to 10 pages.  They can be dense with lots of details.
 
 Go through them carefully, referring back to any reference materials you have to.
 
-Take your time.  Enjoy it.  You've learned a lot, and the workbook section is your way to prove it!
+Take your time.  Enjoy it.  You've learned a lot, and the workbook dialog section is your way to prove it!
 
 ## Learn Grammar from Modern Mandarin Chinese Grammar
 
