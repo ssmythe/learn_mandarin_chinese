@@ -10,7 +10,7 @@ Refer to Apple's instructions on installing the [Chinese Input Method: Use the P
 
 Choose Apple menu > System Preferences, click Keyboard, then click Input Sources.  Next, click the Add button '+', select “English”, select "ABC - Extended", then click Add.
 
-### View your Keyboard switch shortcut
+### View your Keyboard switch shortcuts
 
 Choose Apple menu > System Preferences, click Keyboard, then click Shortcuts.  Next, click "Input Sources" and memorize the keyboard shortcut to switch between keyboards.
 
