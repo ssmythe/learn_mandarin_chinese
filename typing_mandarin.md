@@ -16,8 +16,8 @@ Choose Apple menu > System Preferences, click Keyboard, then click Shortcuts.  N
 
 The defaults are:
 
-- Select the previous input source: ^Space
-- Selext the next input source: ^⌥Space
+- Select the previous input source: ⌃Space
+- Selext the next input source: ⌃⌥Space
 
 Legend:
 - ⌃  Control
