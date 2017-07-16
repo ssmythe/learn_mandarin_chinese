@@ -31,6 +31,57 @@ You must first learn the Chinese syllables and how they are represented, sound, 
 
 Tip: grab a stack of note cards and write out the syllables and sound tips for review as you go through the material.
 
+## Pinyin Romanization
+
+The best rules for tone mark placement and Pinyin conventions I've found is from [Modern Mandarin Chinese Grammar 2E Textbook][9]
+
+### Placement of tone mark in Pinyin
+
+> If a final includes three vowels, or two vowels and a final constant, the tone mark is written over the second vowel:
+
+<div>
+  <table border="0">
+    <tr>
+      <td><b>kuài</b></td>
+      <td><b>huán</b></td>
+      <td><b>biān</b></td>
+      <td><b>qióng</b></td>
+    </tr>
+  </table>
+</div>
+
+> If a final includes two vowels and no final consonant, the tone mark is placed over the first vowel, unless the first vowel is **i** or **u**:
+
+<div>
+  <table border="0">
+    <tr>
+      <td><b>āi</b></td>
+      <td><b>áo</b></td>
+      <td><b>ěi</b></td>
+      <td><b>òu</b></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><b>iā</b></td>
+      <td><b>ié</b></td>
+      <td><b>iǔ</b></td>
+    </tr>
+    <tr>
+      <td><b>uà</b></td>
+      <td><b>ué</b></td>
+      <td><b>uǐ</b></td>
+      <td><b>uò</b></td>
+    </tr>
+  </table>
+</div>
+
+### Some additional Pinyin conventions
+
+> - 'u' after the initials **j**, **q**, and **x** is pronounced **ü** but is written as **u**.
+> - when 'i' and 'ü' begin as a syllable, the are written as **yi** and **yu**.
+> - When 'u' begins a syllable, it is written as **wu**.
+> - In two-syllable words, when the boundaries between syllables is not clear from the Pinyin spelling and more than one interpretation of the boundary is possible, an apostrophe is used to separate the syllables.  For example, if the second syllable begins with a vowel, an apostrophe is used: **Xī'ān**  西安 vs. **xiān** 先.
+
 ## Learn Characters and Grammar from Integrated Chinese Books
 
 - [Integrated Chinese 4th Edition Level 1 Textbook SC][6]
