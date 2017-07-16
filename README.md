@@ -37,7 +37,7 @@ Once you've finished the above Pinyin course, memorize the following rules for t
 
 ### Placement of tone mark in Pinyin
 
-> If a final includes three vowels, or two vowels and a final constant, the tone mark is written over the second vowel:
+If a final includes three vowels, or two vowels and a final constant, the tone mark is written over the second vowel:
 
 <div>
   <table border="0">
@@ -50,7 +50,7 @@ Once you've finished the above Pinyin course, memorize the following rules for t
   </table>
 </div>
 
-> If a final includes two vowels and no final consonant, the tone mark is placed over the first vowel, unless the first vowel is **i** or **u**:
+If a final includes two vowels and no final consonant, the tone mark is placed over the first vowel, unless the first vowel is **i** or **u**:
 
 <div>
   <table border="0">
@@ -77,10 +77,10 @@ Once you've finished the above Pinyin course, memorize the following rules for t
 
 ### Some additional Pinyin conventions
 
-> - 'u' after the initials **j**, **q**, and **x** is pronounced **ü** but is written as **u**.
-> - when 'i' and 'ü' begin as a syllable, the are written as **yi** and **yu**.
-> - When 'u' begins a syllable, it is written as **wu**.
-> - In two-syllable words, when the boundaries between syllables is not clear from the Pinyin spelling and more than one interpretation of the boundary is possible, an apostrophe is used to separate the syllables.  For example, if the second syllable begins with a vowel, an apostrophe is used: **Xī'ān**  西安 vs. **xiān** 先.
+- 'u' after the initials **j**, **q**, and **x** is pronounced **ü** but is written as **u**.
+- when 'i' and 'ü' begin as a syllable, the are written as **yi** and **yu**.
+- When 'u' begins a syllable, it is written as **wu**.
+- In two-syllable words, when the boundaries between syllables is not clear from the Pinyin spelling and more than one interpretation of the boundary is possible, an apostrophe is used to separate the syllables.  For example, if the second syllable begins with a vowel, an apostrophe is used: **Xī'ān**  西安 vs. **xiān** 先.
 
 ## Learn Characters and Grammar from Integrated Chinese Books
 
