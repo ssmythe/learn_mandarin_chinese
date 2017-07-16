@@ -2,7 +2,7 @@
 
 ```
 It’s way easier than you would think
-Steve Smythe, v1.0.3 - July 15, 2017
+Steve Smythe, v1.0.4 - July 16, 2017
 ```
 
 # Abstract
@@ -75,7 +75,7 @@ Go through the following steps for each dialog section in each lesson...
 - Look up each word (could be composed of multiple characters) in the [Pleco Chinese Dictionary][3]
     - Listen to the pronunciation (several times if necessary)
     - Watch the stroke order animation
-- Write each character in the correct stroke order
+- Write each character in the correct stroke order (just the simplified characters)
     - Say the Pinyin and English definition as you're writing each word/character (as appropriate)
 
 ### Deep Study the Vocabulary
@@ -85,7 +85,7 @@ For each word in the vocabulary list:
 - Look up each word (could be composed of multiple characters) in the [Pleco Chinese Dictionary][3]
     - Listen to the pronunciation (several times if necessary)
     - Watch the stroke order animation
-- Write each character in the correct stroke order
+- Write each character in the correct stroke order (just the simplified characters)
 - Write and say the Pinyin, part of speech, and English definition
 - Dig into each character understanding and writing down:
     - Character composition (Sound, Semantic, etc)
