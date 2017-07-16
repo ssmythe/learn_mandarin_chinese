@@ -82,6 +82,10 @@ If a final includes two vowels and no final consonant, the tone mark is placed o
 - When 'u' begins a syllable, it is written as **wu**.
 - In two-syllable words, when the boundaries between syllables is not clear from the Pinyin spelling and more than one interpretation of the boundary is possible, an apostrophe is used to separate the syllables.  For example, if the second syllable begins with a vowel, an apostrophe is used: **Xī'ān**  西安 vs. **xiān** 先.
 
+## Typing Pinyin and Mandarin
+
+Please refer to [Typing Mandarin](/typing_mandarin.md/) on how to type Pinyin and Mandarin on various platforms.
+
 ## Learn Characters and Grammar from Integrated Chinese Books
 
 - [Integrated Chinese 4th Edition Level 1 Textbook SC][6]
