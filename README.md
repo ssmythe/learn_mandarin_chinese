@@ -33,7 +33,7 @@ Tip: grab a stack of note cards and write out the syllables and sound tips for r
 
 ## Pinyin Romanization
 
-The best rules for tone mark placement and Pinyin conventions I've found is from [Modern Mandarin Chinese Grammar 2E Textbook][9]
+Once you've finished the above Pinyin course, memorize the following rules for tone mark placement and Pinyin conventions (from [Modern Mandarin Chinese Grammar 2E Textbook][9]).  You'll be glad you did.
 
 ### Placement of tone mark in Pinyin
 
