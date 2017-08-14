@@ -2,7 +2,7 @@
 
 ```
 It’s way easier than you would think
-Steve Smythe, v1.0.4 - July 16, 2017
+Steve Smythe, v1.0.5 - Aug 13, 2017
 ```
 
 # Abstract
@@ -99,14 +99,13 @@ The basic phases are:
 - Deep Study the Vocabulary (2 to 10 hours)
 - Translate the Dialog (5 to 30 minutes)
 - Deep Study the Grammar (2 to 6 hours)
-- Go through the Exercises (30 minutes to 2 hours)
 - Go through the Workbook (2 to 10 hours)
 
 #### Time estimates
 
-- A single dialog section can take anywhere from an estimated 8 to 32 hours.
-- A whole lesson (two dialog sections) can take anywhere from an estimated 16 to 64 hours.
-- The whole level one series of books (10 lessons) can take anywhere from 160 to 640 hours.
+- A single dialog section can take anywhere from an estimated 7 to 30 hours.
+- A whole lesson (two dialog sections) can take anywhere from an estimated 14 to 60 hours.
+- The whole level one series of books (10 lessons) can take anywhere from 140 to 600 hours.
 - Plan on one level series of books per year.
 
 You are likely going to be faster than me.  If you are, great job!  If not, no worries.  Join the slow and steady club.
@@ -123,6 +122,8 @@ Go through the following steps for each dialog section in each lesson...
 - Just listen to the general flow and rhythm of the conversation.
 - See if you can pick out each word and syllable.  If not, no worries.  Just hear the sounds as best you can.
 - After a while, speak along with the dialog as best you can, pausing the audio where necessary.
+
+TIP: Listen to the dialog audio (and/or watch the video if you have them) every day to let the dialog sink in.
 
 ### Writing the Characters
 
@@ -156,15 +157,15 @@ For each line of dialog:
 - Put the pinyin below the characters (paying attention to tone markers and spelling)
 - Put the English translation below the pinyin
 
+TIP: Translate the dialog often so you get familiar with full sentences and their construction.
+
 ### Deep Study the Grammar
 
 - Copy each grammar note in full (English sentences and Chinese characters)
 - Pay attention to example sentences and usage
 - Add any variant sentences you want along with the example sentences to play around with the concept
 
-### Go through the Exercises
-
-Exercises can be tough sometimes, especially since there are no answers in the textbook.
+The grammar exercises can be tough sometimes, especially since there are no answers in the textbook.
 
 This is where the website comes in (when it comes out, very soon, I hope).  It's a subscription, but the interactive exercises give you immediate feedback, so you know you've got it write.
 
