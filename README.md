@@ -123,7 +123,7 @@ Go through the following steps for each dialog section in each lesson...
 - See if you can pick out each word and syllable.  If not, no worries.  Just hear the sounds as best you can.
 - After a while, speak along with the dialog as best you can, pausing the audio where necessary.
 
-TIP: Listen to the dialog audio (and/or watch the video if you have them) every day to let the dialog sink in.
+Tip: Listen to the dialog audio (and/or watch the video if you have them) every day to let the dialog sink in.
 
 ### Writing the Characters
 
@@ -157,7 +157,7 @@ For each line of dialog:
 - Put the pinyin below the characters (paying attention to tone markers and spelling)
 - Put the English translation below the pinyin
 
-TIP: Translate the dialog often so you get familiar with full sentences and their construction.
+Tip: Translate the dialog often so you get familiar with full sentences and their construction.
 
 ### Deep Study the Grammar
 
